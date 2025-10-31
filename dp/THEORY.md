@@ -2,7 +2,8 @@ Different forms of DP
 
 1) Choice for an index - Take/NoTake
 2) LIS - dp[i] = best value ending at index i
-3) Multi sequence dp two pointers on two diff arrays - LCS  
+3) Multi sequence dp two pointers on two diff arrays - LCS
+4) LR DP - Rod Cutting
 
 
 Steps to follow : 
