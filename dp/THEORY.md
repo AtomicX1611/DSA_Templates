@@ -3,8 +3,8 @@ Different forms of DP
 1) Choice for an index - Take/NoTake
 2) LIS - dp[i] = best value ending at index i
 3) Multi sequence dp two pointers on two diff arrays - LCS
-4) LR DP - Rod Cutting
-
+4) LR DP - Rod Cutting , Palindrome Partitioning.
+5) Game DP 
 
 Steps to follow : 
 1) Identify the form
@@ -17,4 +17,13 @@ Steps to follow :
 2) Base case
 3) Memoization check
 4) Compute
-5) save adn return 
+5) save and return 
+
+//Optimization techniques
+1) State space.
+2) State Rotation.
+3) Transition Opt.
+4) 
+
+// Iterative
+1) FInd order of computation.
