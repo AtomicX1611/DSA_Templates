@@ -5,6 +5,11 @@ Different forms of DP
 3) Multi sequence dp two pointers on two diff arrays - LCS
 4) LR DP - Rod Cutting , Palindrome Partitioning.
 5) Game DP 
+6) BitMask 
+   1) Bipartite matching
+   2) Hamilton cycle
+   3) Intra set matching
+   4) 
 
 Steps to follow : 
 1) Identify the form
@@ -23,7 +28,6 @@ Steps to follow :
 1) State space.
 2) State Rotation.
 3) Transition Opt.
-4) 
 
 // Iterative
 1) FInd order of computation.
